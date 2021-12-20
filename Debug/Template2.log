@@ -1,0 +1,3 @@
+﻿  Functions.cpp
+C:\Users\User\source\repos\Coursach\Template2\Functions.cpp(16,6): warning C4101: 'num': unreferenced local variable
+  Template2.vcxproj -> C:\Users\User\source\repos\Coursach\Template2\Debug\Template2.exe
